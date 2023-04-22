@@ -1,0 +1,5 @@
+1. Species should be one of the following values: setosa, versicolor or virginica.
+2. All measured numerical properties of an iris should be positive.
+3. The petal length of an iris is at least 2 times its petal width.
+4. The sepal length of an iris cannot exceed 30 cm.
+5. The sepals of an iris are longer than its petals.
